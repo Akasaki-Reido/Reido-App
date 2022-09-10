@@ -1,5 +1,7 @@
 #Akasaki Reido App
+
 This app have my all info inside.
+
 I will update my app anytime.
 
 ##Download latest version
